@@ -1,0 +1,29 @@
+Reading netlist file: "/Users/hiroshi/Developer/FPGA/LChika/impl/gwsynthesis/LChika.vg"
+Parsing netlist file "/Users/hiroshi/Developer/FPGA/LChika/impl/gwsynthesis/LChika.vg" completed
+Processing netlist completed
+Reading constraint file: "/Users/hiroshi/Developer/FPGA/LChika/src/LChika.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "/Users/hiroshi/Developer/FPGA/LChika/impl/pnr/LChika.power.html" completed
+Generate file "/Users/hiroshi/Developer/FPGA/LChika/impl/pnr/LChika.pin.html" completed
+Generate file "/Users/hiroshi/Developer/FPGA/LChika/impl/pnr/LChika.rpt.html" completed
+Generate file "/Users/hiroshi/Developer/FPGA/LChika/impl/pnr/LChika.rpt.txt" completed
+Generate file "/Users/hiroshi/Developer/FPGA/LChika/impl/pnr/LChika.tr.html" completed
+Wed Mar 18 09:00:29 2026
+
