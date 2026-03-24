@@ -1,7 +1,7 @@
 # TangNano9KEVASupport
 
 ## 設定動画
-こちらに設定の仕方がわかる動画を掲載しました。
+こちらに設定の仕方がわかる動画を掲載しました。  
 https://youtu.be/Wy38JazTqbQ
 ## Tang Nano 9Kに関する設定
 ### 各バンクの電圧
